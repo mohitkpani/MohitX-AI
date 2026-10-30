@@ -20,7 +20,7 @@ import "./App.css";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 
-const API_URL = "http://localhost:8080/api/chat";
+const API_URL = "https://mohitx-ai.onrender.com/api/chat";
 const STORAGE_KEY = "mohitx-conversations";
 
 const prompts = [
