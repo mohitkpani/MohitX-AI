@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src=".\src\assets\favicon.png" alt="MohitX AI — Your Smart AI Assistant" width="100%" />
+<img src=".\frontend\src\assets\favicon.png" 
+alt="MohitX AI — Your Smart AI Assistant"
+height="150" 
+width="170" />
 
 # ✨ MohitX AI
 
