@@ -1,5 +1,6 @@
 
 import { useEffect, useRef, useState } from "react";
+import profilePhoto from "./assets/profile.jpeg";
 import {
   Bot,
   Plus,
@@ -290,7 +291,7 @@ export default function App() {
           <div className="profile-card">
             <div className="profile-portrait">
               <img
-                src=".\src\assets\profile.jpeg"
+                src={profilePhoto}
                 alt="Mohit Kumar Pani"
                 className="profile-photo"
               />
