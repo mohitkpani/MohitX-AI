@@ -1,0 +1,32 @@
+# Frontend - React + Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# Backend - Spring Boot
+backend/target/
+backend/build/
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# Java
+*.class
+*.jar
+*.war
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
